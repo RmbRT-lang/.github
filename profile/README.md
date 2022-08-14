@@ -16,6 +16,8 @@ It is designed to allow writing clean, expressive, and safe code, without being 
 ## (Preliminary) Roadmap
 
 1. Feature-complete stand-alone compiler (rmbrtc) for executables.
-1. RmbRT object files, ahead-of-time template compilation, pre-compiled project dependencies/libraries.
+1. RmbRT ASM object files, ahead-of-time template compilation, pre-compiled project dependencies/libraries.
 1. Full debugging support.
 1. Full language documentation.
+1. Decentralised code repositories.
+1. Decentrally attested compilation.
