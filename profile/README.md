@@ -2,6 +2,7 @@
 
 ![RmbRT-lang-chud](https://user-images.githubusercontent.com/12518378/184537409-a47a6add-1056-4092-8114-67d76a7a0cfe.png)
 
+The RmbRT programming language is pronounced as "rmbrt" (chinks and burgers BTFO).
 
 Coming soon. I'm currently rewriting the standalone compiler to be more easily maintainable and extendable.
 
@@ -10,8 +11,16 @@ Coming soon. I'm currently rewriting the standalone compiler to be more easily m
 
 ## Mission
 
-RmbRT language is intended to be a programming language for _experts_ with great performance, compact code, simple syntax, and powerful mechanisms for using higher abstractions.
+RmbRT language is intended to be a programming language for *experts*.
+It aims to fulfill the following features:
+
+* Great performance,
+* compact & readable code (only if you are an expert, albeit),
+* simple syntax,
+* expressive mechanisms for using higher abstractions and concurrency.
+
 It is designed to allow writing clean, expressive, and safe code, without being overly academic.
+Its simple syntax and higher level concepts are intended to allow for easy development of additional tooling such as analyzers and model checkers.
 
 ## NOT Mission
 
