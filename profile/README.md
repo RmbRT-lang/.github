@@ -19,7 +19,7 @@ It aims to fulfill the following features:
 * simple syntax,
 * expressive mechanisms for using higher abstractions and concurrency.
 
-It is designed to allow writing clean, expressive, and safe code, without being overly academic.
+It is designed to allow writing clean, expressive, and safe code, without being overly academic or annoying.
 Its simple syntax and higher level concepts are intended to allow for easy development of additional tooling such as analyzers and model checkers.
 
 ## NOT Mission
@@ -28,6 +28,7 @@ Its simple syntax and higher level concepts are intended to allow for easy devel
 * Compromises in the design.
 * Backwards compatibility.
 * Corporate use.
+* POSIX compliance/compatibility.
 
 ## (Preliminary) Roadmap
 
