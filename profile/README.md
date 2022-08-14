@@ -13,6 +13,13 @@ Coming soon. I'm currently rewriting the standalone compiler to be more easily m
 RmbRT language is intended to be a programming language for _experts_ with great performance, compact code, simple syntax, and powerful mechanisms for using higher abstractions.
 It is designed to allow writing clean, expressive, and safe code, without being overly academic.
 
+## NOT Mission
+
+* Compatibility with existing software stacks.
+* Compromises in the design.
+* Backwards compatibility.
+* Corporate use.
+
 ## (Preliminary) Roadmap
 
 1. Feature-complete stand-alone compiler (rmbrtc) for executables.
