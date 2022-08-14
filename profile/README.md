@@ -4,7 +4,7 @@
 
 The RmbRT programming language is pronounced as "rmbrt" (chinks and burgers BTFO).
 
-Coming soon. I'm currently rewriting the standalone compiler to be more easily maintainable and extendable.
+Coming soon. I'm currently rewriting the self-hosted compiler to be more easily maintainable and extendable.
 
 * You can already use the [`bootstrap compiler`](https://github.com/RmbRT-lang/rmbrtbc) to compile RmbRT programs, but it's still a bit buggy due to technical limitations (such as using C++ as the intermediate language).
 * See [`rmbrtc`](https://github.com/RmbRT-lang/rmbrtc) and [`std`](https://github.com/RmbRT-lang/std) to get an impression of what the language is like.
@@ -32,7 +32,7 @@ Its simple syntax and higher level concepts are intended to allow for easy devel
 
 ## (Preliminary) Roadmap
 
-1. Feature-complete stand-alone compiler (rmbrtc) for executables.
+1. Feature-complete self-hosted compiler (rmbrtc) for executables.
 1. RmbRT ASM object files, ahead-of-time template compilation, pre-compiled project dependencies/libraries.
 1. Full debugging support.
 1. Full language documentation.
