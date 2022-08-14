@@ -8,6 +8,11 @@ Coming soon. I'm currently rewriting the standalone compiler to be more easily m
 * You can already use the [`bootstrap compiler`](https://github.com/RmbRT-lang/rmbrtbc) to compile RmbRT programs, but it's still a bit buggy due to technical limitations (such as using C++ as the intermediate language).
 * See [`rmbrtc`](https://github.com/RmbRT-lang/rmbrtc) and [`std`](https://github.com/RmbRT-lang/std) to get an impression of what the language is like.
 
+## Mission
+
+RmbRT language is intended to be a programming language for _experts_ with great performance, compact code, simple syntax, and powerful mechanisms for using higher abstractions.
+It is designed to allow writing clean, expressive, and safe code, without being overly academic.
+
 ## (Preliminary) Roadmap
 
 1. Feature-complete stand-alone compiler (rmbrtc) for executables.
