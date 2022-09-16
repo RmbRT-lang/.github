@@ -1,7 +1,7 @@
 # RmbRT Programming language
 
 The RmbRT programming language is a Christian programming language, in that it seeks to fulfill the virtues that Yahweh our God likes:
-* to take joy in the Word, to make speaking and reading the truth pleasant,
+* to take joy in the Word, to make speaking and reading the truth and wisdom pleasant,
 * to not touch the unclean, I tried my best to create something pure.
 * to take joy and comfort in your toil and to labour for things that satisfy,
 * to dedicate the works of your hands to honour Yahweh; I hope that this language will be respected and that all the honour will be credited to Yahweh.
