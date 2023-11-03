@@ -20,6 +20,8 @@ This blessing and this curse are above your stupid licenses and mortal laws so d
 
 ![RmbRT-lang-chud](https://user-images.githubusercontent.com/12518378/184537409-a47a6add-1056-4092-8114-67d76a7a0cfe.png)
 
+*Do you find this obscene? The real obscenity are bad programming languages!*
+
 ## Status
 
 More information and documentation coming soon. I'm currently rewriting the self-hosted compiler to be more easily maintainable and extendable.
