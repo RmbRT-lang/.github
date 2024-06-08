@@ -34,10 +34,11 @@ More information and documentation coming soon. I'm currently rewriting the self
 RmbRT language is intended to be a programming language for *experts* who love their craft.
 It aims to fulfill the following features:
 
-* Great performance,
+* Great performance (must lend itself well to extensive optimisations),
 * compact & readable code (only if you are an expert, albeit),
 * simple syntax,
 * expressive mechanisms for using higher abstractions and concurrency.
+* fast compilation times (ideally >100K LOC/s),
 * timeless:
   must be usable for centuries without getting old. That's why I will be improving on it and fixing things until it can survive the ages.
   I am sick of seeing these half-baked programming languages that are a pain to use and who force false conceptions of computers on you.
