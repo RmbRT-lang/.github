@@ -57,7 +57,7 @@ Its simple syntax and higher level concepts are intended to allow for easy devel
 ## (Preliminary) Roadmap
 
 1. Feature-complete self-hosted compiler (rmbrtc) for executables. (currently WIP, expected by the end of 2024, Yahweh willing).
-1. RmbRT ASM object files, ahead-of-time template compilation, pre-compiled project dependencies/libraries.
+1. RmbRT ASM object files, ahead-of-time template compilation, pre-compiled project dependencies/libraries. (currently WIP, I am still fine-tuning the ISA design)
 1. Full debugging support.
 1. Full language documentation.
 1. Decentralised code repositories.
